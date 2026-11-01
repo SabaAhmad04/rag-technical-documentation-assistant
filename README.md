@@ -278,33 +278,6 @@ http://localhost:8501
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-```
-screenshots/home.png
-```
-
-## Upload PDF
-
-```
-screenshots/upload.png
-```
-
-## Question Answering
-
-```
-screenshots/chat.png
-```
-
-## Indexed Documents
-
-```
-screenshots/documents.png
-```
-
----
 
 # 💬 Example Query
 
